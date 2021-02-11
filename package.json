@@ -1,0 +1,19 @@
+{
+  "name": "conc-string",
+  "version": "1.0.3",
+  "description": "It helps in concatinating anything in any string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "concatenation",
+    "concat",
+    "String concatination",
+    "Concat to start"
+  ],
+  "author": "Priyanshu Dubey",
+  "license": "ISC",
+  "homepage": "https://github.com/priyanshudubey/concat",
+  "developer": "https://priyanshudubey.me"
+}
