@@ -12,7 +12,7 @@ Concatenator is a concatenation helper. Now you don't have to google on how to c
 
 # Example
 ```
-var app = require('@priyanshudubey/concat')
+var app = require('conc-string')
 str = "Hello world"
 var resu = app.concString(str, 'front', 'New ')
 console.log(resu);
